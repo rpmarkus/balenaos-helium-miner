@@ -1,6 +1,6 @@
 # balenaos-helium-miner
 
-AWS based helium miner
+helium miner
 
 if you want to try you need to:
 1) fork my repo to your own github account : https://github.com/rpmarkus/balenaos-helium-miner
